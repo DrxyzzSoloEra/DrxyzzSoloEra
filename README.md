@@ -1,23 +1,39 @@
 # 👋 Hi, I'm DrxyzzSoloEra
-🎮 Game dev | 🎨 Front-end Designer | 💻 Full-stack learner  
-I love building interactive websites and cool experiences!
+🎮 Gamer | 💻 Web Dev | 🎨 Creative Coder
 
-## 🚀 My Skills
-- HTML, CSS, JavaScript
-- React, TailwindCSS
-- Node.js, Express, MongoDB
+> “Coding is my weapon. Design is my armor.”
 
-## 🎧 Currently vibing with
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)
+---
 
-## 🕹️ Favorite Projects
-- 🎮 [Game Landing Page](https://github.com/DrxyzzSoloEra/game-landing)
-- 🌌 [Personal Portfolio](https://github.com/DrxyzzSoloEra/portfolio)
+## 🚀 Skills
+- HTML / CSS / JavaScript  
+- React / Node.js / Express  
+- TailwindCSS / MongoDB  
+- Game Dev (Unity, C#, Phaser)
 
-> “Code is like art — only cooler.”
+---
 
+## 🧠 Currently Learning
+- Next.js ⚡  
+- 3D Web (Three.js)  
+- AI Integration (OpenAI API)
 
+---
 
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=DrxyzzSoloEra&show_icons=true&theme=tokyonight)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrxyzzSoloEra&layout=compact&theme=tokyonight)
 
-![Profile Views](https://komarev.com/ghpvc/?username=DrxyzzSoloEra&color=blue)
-![Made with Love](https://img.shields.io/badge/Made%20with-Love-red)
+---
+
+## 🎧 Currently Listening
+### 🎵 Pamungkas – “To the Bone”
+[![Pamungkas – To the Bone](https://img.shields.io/badge/Now%20Playing-To%20The%20Bone%20🎵-brightgreen?logo=spotify&logoColor=white)](https://open.spotify.com/track/7k6IzwMGpxnRghE7YosnXT)
+
+> _“When you go, please turn the lights off…”_ 🎶
+
+---
+
+## 🌐 Connect With Me
+[![Telegram](https://img.shields.io/badge/Telegram-%40drxyzzsoloera-blue?logo=telegram)](https://t.me/DrxyzzSoloEra)
+[![TikTok](https://img.shields.io/badge/TikTok-%40drxyzzsoloera-black?logo=tiktok)](https://tiktok.com/@DrxyzzSoloEra)
