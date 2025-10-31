@@ -9,7 +9,7 @@
 
 ---
 
-## 🎮 About Me
+## 🎮 About Me DrxyzzSoloEra
 > “Coding is my weapon. Design is my armor.”
 
 💻 Frontend & Game Developer  
