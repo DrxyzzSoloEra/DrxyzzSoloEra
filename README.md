@@ -72,19 +72,3 @@
 ## 🌐 Connect With Me
 [![Telegram](https://img.shields.io/badge/Telegram-%40drxyzzsoloera-blue?logo=telegram)](https://t.me/DrxyzzSoloEra)
 [![TikTok](https://img.shields.io/badge/TikTok-%40drxyzzsoloera-black?logo=tiktok)](https://tiktok.com/@DrxyzzSoloEra)
-
-
----
-
-<!-- ✨ Neon Glow Effect -->
-<style>
-.glow {
-  color: #00ffee;
-  text-shadow: 0 0 5px #00ffee, 0 0 10px #00ffee, 0 0 20px #00ffee;
-  animation: pulse 2s infinite alternate;
-}
-@keyframes pulse {
-  from { text-shadow: 0 0 10px #00ffee; }
-  to { text-shadow: 0 0 25px #00ffee; }
-}
-</style>
