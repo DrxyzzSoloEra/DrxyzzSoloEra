@@ -15,3 +15,9 @@ I love building interactive websites and cool experiences!
 - 🌌 [Personal Portfolio](https://github.com/DrxyzzSoloEra/portfolio)
 
 > “Code is like art — only cooler.”
+
+
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=DrxyzzSoloEra&color=blue)
+![Made with Love](https://img.shields.io/badge/Made%20with-Love-red)
