@@ -1,7 +1,7 @@
 <!-- 💫 Typing Animation (Futuristic + Full Display) -->
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=2800&pause=1000&color=00FFEA&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+DrxyzzSoloEra!;Cyber+Web+Dev+%7C+Game+Architect+%7C+Code+Artist;Welcome+to+the+Digital+Era+🚀" 
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=2800&pause=1000&color=00FFEA&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+DrxyzzSoloEra!;Cyber+Web+Dev+%7C+Game+Architect+%7C+Code+Artist;Welcome+To+The+Developer+Website+Era+🚀" 
     alt="Typing Animation" 
     style="max-width: 100%; height: auto;"
   />
